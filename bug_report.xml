@@ -1,20 +1,20 @@
 <id>1</id>
 <Tittle>Sign up with Google option is not available</tittle>
 <Steps>
- <1>Open the app in the browser</1> 
- <2>Click on Sign up</2>
+  <1>Open the app in the browser</1> 
+  <2>Click on Sign up</2>
 <steps/>
 <ExpectResuls>
- <->The available options are</->
- <->sign up Email</->
- <->Sign up with Facebook</->
- <->Sign up with Google</->
-</ExpectResuls>
+  <->The available options are</->
+  <->sign up Email</->
+  <->Sign up with Facebook</->
+  <->Sign up with Google</->
+ </ExpectResuls>
 <ActualResuls>
- <->The available options are</->
- <->sign up Email</->
- <->Sign up with Facebook</->
- </ActualResuls>
+  <->The available options are</->
+  <->sign up Email</->
+  <->Sign up with Facebook</->
+</ActualResuls>
 <Reportet>Alexandr Polienko</Reporter>
 <Severity>High</Severity>
 <Priority>High</Priority>
