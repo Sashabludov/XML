@@ -1,8 +1,20 @@
-ID: 1
-Tittle: Sign up with Google option is not available
-Steps: 1) Open the app in the browser. 2) Click on Sign up
-Expect Resuls: The available options are: -sign up Email. -Sign up with Facebook. -Sign up with Google
-Actual Resuls: The available options are: -sign up Email. -Sign up with Facebook
-Reportet: Alexandr Polienko
-Severity: High
-Priority: High
+<id>1</id>
+<Tittle>Sign up with Google option is not available</tittle>
+<Steps>
+ <1>Open the app in the browser</1> 
+ <2>Click on Sign up</2>
+<steps/>
+<ExpectResuls>
+ <->The available options are</->
+ <->sign up Email</->
+ <->Sign up with Facebook</->
+ <->Sign up with Google</->
+</ExpectResuls>
+<ActualResuls>
+ <->The available options are</->
+ <->sign up Email</->
+ <->Sign up with Facebook</->
+ </ActualResuls>
+<Reportet>Alexandr Polienko</Reporter>
+<Severity>High</Severity>
+<Priority>High</Priority>
